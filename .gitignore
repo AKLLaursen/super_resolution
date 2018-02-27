@@ -1,3 +1,6 @@
 data/
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+results/
+super_resolution/__pycache__/
+notebooks/tmp.png
